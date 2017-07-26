@@ -1,0 +1,71 @@
+#ajaxpostloadmore {	margin:0; padding:0; font-size:12px; font-weight:normal; text-transform: none;} 
+#ajaxpostloadmore a { border-bottom:0;text-decoration:none}
+#ajaxpostloadmore .ik-pst-aplm-title-head{ color:#fff; font-weight:bold; margin-bottom:2px; font-size: 15px; padding:8px 13px;} 
+#ajaxpostloadmore .wp-load-icon { display:none; margin-left:10px; width:10px; height:10px; background-color:#fff; } 
+#ajaxpostloadmore .item-pst-list{ background: none; padding:0; margin:0px 0px 2px 0px; color:#424242; border: 1px solid #ebebeb;	  }
+#ajaxpostloadmore .item-posts { background: #F7F7F7; border: 1px solid rgb(236, 236, 236); padding: 10px; }  
+#ajaxpostloadmore .ik-prouct-search-text { width:60px; padding:3px;}
+#ajaxpostloadmore .pst-item{ cursor:pointer; background: #F1F1F1; padding:0px 25px 0px 13px;font-weight:normal; font-size: 12px;  border-left:1px solid #696969;  }
+#ajaxpostloadmore .pst-item{  	position: relative;	-webkit-transition: all 0.4s;overflow: hidden;transition: all 0.4s; -moz-transition: all 0.4s;}  
+#ajaxpostloadmore .ik-post-item { float:left;padding:5px 0 0 0; margin:0 0.5%}
+#ajaxpostloadmore .ik-post-item p { margin:0; padding:0}
+#ajaxpostloadmore .ik-post-load-more{ cursor:pointer;  text-align:center; padding:10px 5px 5px; text-align:center; 	font-size: 12px;font-weight:bold; clear:both; padding-bottom: 10px;	position: relative;	-webkit-transition: all 0.8s;overflow: hidden;transition: all 0.8s; 	-moz-transition: all 0.8s; }
+#ajaxpostloadmore .ik-post-load-more:before {	content:url("../images/ac_bottom.png");	height: 100%; -webkit-transition: all 0.8s;-moz-transition: all 0.8s; position: absolute; top:55%; left: 49%; 	transition: all 0.8s; }
+#ajaxpostloadmore .ik-post-load-more:hover:before {top: 1%;} 
+#ajaxpostloadmore .ik-post-load-more:hover { color:#0e83cd !important; }
+#ajaxpostloadmore  .ik-post-content .ik-post-name { margin-top:5px; font-size: 12px; word-wrap:break-word}
+#ajaxpostloadmore  .ik-post-content .ik-post-name a { text-decoration:none; border:0; word-wrap:break-word;font-weight: normal;}
+#ajaxpostloadmore  .ik-post-content .ik-post-name a:hover{ transition: all 0.5s ease-out 0.7s; color:#ccc;font-weight: normal; } 
+#ajaxpostloadmore  .ik-post-image img { width:100%} 
+#ajaxpostloadmore  .ik-post-no-items { padding:10px 10px 10px 4px; font-size:13px }
+#ajaxpostloadmore .pst-item{ clear:both; position:relative}
+#ajaxpostloadmore  .pst-item-text {   float:left; min-height:18px;margin: 8px 0;}
+#ajaxpostloadmore  .ld-pst-item-text  { width:22px; height:22px; right:1%;  position:absolute; top:9px }
+#ajaxpostloadmore  .ik-load-content-cnt { width:20px; height:20px; -webkit-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1);	-moz-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1); box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1);   margin-top:0px; padding:1px; display:block;  background-color:#f7f7f7; -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px;    }
+#ajaxpostloadmore  .ik-load-content { width:20px; height:20px; }
+#ajaxpostloadmore  .ik-load-content-more { padding:10px;  transition: all 0.4s ease 0s; }
+#ajaxpostloadmore  .ik-load-content-more:hover { color:#fff !important; }
+#ajaxpostloadmore  .clr, #ajaxpostloadmore  .clrb { clear:both}
+#ajaxpostloadmore  .ik-post-image { position :relative; }
+#ajaxpostloadmore div.ov-layer  .ik-overlay-post-content  { margin-top:0px;color:#000;background:#fff; padding:5px; border-bottom:1px solid #fff;border-top:1px solid #fff; }
+#ajaxpostloadmore div.ov-layer  .ik-overlay-post-content .ik-post-name {line-height:16px;text-decoration:none;}
+#ajaxpostloadmore div.ov-layer  .ik-overlay-post-content .ik-post-name a {  border:0; text-decoration:none; position:relative }  
+#ajaxpostloadmore div.ov-layer {display:block; visibility:hidden;position:relative; top:40px; left:0;-webkit-transition: -webkit-transform 1s;   position: absolute; -o-transition-duration: 1s; 	width:  100%; -moz-transition-duration: 1s;  -webkit-transition: -webkit-transform 1s; z-index: 10; cursor: pointer; height: 100%;  background:url(../images/view.png) right bottom no-repeat #000; opacity: 0; color:#fff; font-size:13px;} 
+#ajaxpostloadmore div.ov-layer:hover {box-shadow: 0px 0px 3px #000;-moz-transition-duration: 1s; -webkit-transition: -webkit-transform 1s; -o-transition-duration: 1s; -webkit-box-shadow: 0px 0px 3px #333; -moz-box-shadow: 0px 0px 3px #333; opacity: .6;}  
+#ajaxpostloadmore button { margin:0px; padding:0px; float:none;}
+#ajaxpostloadmore .btn-crt, #ajaxpostloadmore #btnSearch { padding:0px; margin:0px; border:0px; background: #EBEBEB !important; color: #464646; padding:3px 8px; font-size:11px; width:100% }
+#ajaxpostloadmore .btn-crt { margin:5px 0; font-style:normal; cursor:pointer;font-weight: normal;position: relative;	-webkit-transition: all 0.8s;overflow: hidden;transition: all 0.8s; -moz-transition: all 0.8s; -webkit-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1);-moz-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1); box-shadow: 0px 3px #DBDBDB;  } 
+#ajaxpostloadmore .btn-crt:hover{ color:#0e83cd !important; }
+#ajaxpostloadmore .btn-crt:before { height: 100%; -webkit-transition: all 0.8s; -moz-transition: all 0.8s; position: absolute;	top:20%; left: 125%; transition: all 0.8s; }
+#ajaxpostloadmore .bt-cart:before {	content:url("../images/cart.png"); }	
+#ajaxpostloadmore .post_wc_view:before {	content:url("../images/view-more.png"); }	
+#ajaxpostloadmore .btn-crt:hover:before { left: 88%; }
+#ajaxpostloadmore .item-posts{ padding:0 10px 0px 10px; background-color:#fff}
+#ajaxpostloadmore  .pn-active, #ajaxpostloadmore  .pn-active-bg{ background-color:#FEFEFE !important;     }  
+#ajaxpostloadmore .ik-post-content .ik-post-date,
+#ajaxpostloadmore .ik-post-content .ik-post-comment,
+#ajaxpostloadmore div.ov-layer  .ik-overlay-post-content .ik-post-date,
+#ajaxpostloadmore div.ov-layer  .ik-overlay-post-content .ik-post-comment { color:#333; font-weight: normal; text-decoration:none; border:0; font-size: 11px; word-wrap:break-word; min-height:20px; } 
+#ajaxpostloadmore.pane_style_1  .pst-item{ border-left:0 !important; }
+ 
+ /* Pane Style 2 Start */ 
+#ajaxpostloadmore.pane_style_2 .item-pst-list, #ajaxpostloadmore.pane_style_2 .ik-pst-clm-title-head{ border:0!important;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px; 	 }
+#ajaxpostloadmore.pane_style_2 .pst-item{-webkit-border-radius:8px !important; border:1px solid #ececec !important;	-moz-border-radius:8px !important;-webkit-border-radius:8px !important;	border-radius:8px !important;  }  
+#ajaxpostloadmore.pane_style_2 .item-posts{-webkit-border-radius:8px !important; border:1px solid #ececec !important;	-moz-border-radius:8px !important;-webkit-border-radius:8px !important;	border-radius:8px !important;  }  
+/* Pane Style 2 End */    
+ 
+/* Pane Style 3 Start */
+#ajaxpostloadmore.pane_style_3 .ik-post-item {  float: left !important; border-bottom: 1px solid #f5f5f5; padding-bottom: 6px;}
+#ajaxpostloadmore.pane_style_3 .ik-post-image { float: left; width: 101px;}
+#ajaxpostloadmore.pane_style_3 .ik-post-content { float: right; margin: 0px 10px; margin-right: 0px; width: 194px; } 
+#ajaxpostloadmore.pane_style_3 .pst-item-text {   float:left; min-height:18px; background-image: url("../images/ac2_open.png"); background-position: left center;
+background-repeat: no-repeat; padding-left:22px}
+#ajaxpostloadmore.pane_style_3 .pn-active .pst-item-text { background-image: url("../images/ac2_close.png"); }
+#ajaxpostloadmore.apcp-rtl-enabled.pane_style_3 .ik-post-image { float: right;}
+/* Pane Style 3 End */ 
+
+@media only screen and (max-width: 1280px) { #ajaxpostloadmore .ik-post-item { width: 20%; } }
+@media only screen and (max-width: 1024px) { #ajaxpostloadmore .ik-post-item { width: 25%; } }
+@media only screen and (max-width: 768px) { #ajaxpostloadmore .ik-pst-aplm-title-head  { font-size:12px} }
+@media only screen and (max-width: 640px) {	#ajaxpostloadmore .ik-post-item { width: 33%; } }
+@media only screen and (max-width: 480px) {	#ajaxpostloadmore .ik-post-item { width: 50%; } } 

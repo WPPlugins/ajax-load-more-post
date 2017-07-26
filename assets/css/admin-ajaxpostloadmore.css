@@ -1,0 +1,37 @@
+table.ajaxpostloadmore-admin tr td.tp-label { 
+	width: 40%;
+    vertical-align: top;
+	border-top: 1px solid #F0F0F0;
+    background: #F9F9F9;
+    border-right: 1px solid #E1E1E1;
+} 
+table.ajaxpostloadmore-admin tr:first-child td,
+table.ajaxpostloadmore-admin tr:first-child td.tp-label {
+    border-top: 0px none;
+} 
+
+table.ajaxpostloadmore-admin  tr td {
+    padding: 5px 10px;
+	color: #555;
+    border-top: 1px solid #F5F5F5;
+    border-bottom: 0px none;
+}
+table.ajaxpostloadmore-admin-widget tr:last-child td,
+table.ajaxpostloadmore-admin-widget tr:last-child td.tp-label {
+    border-bottom:  1px solid #F5F5F5;
+} 
+table.ajaxpostloadmore-admin td.tp-label {
+    border-top: 1px solid #F5F5F5;
+}
+#wp_ajaxpostloadmore_fields .inside { padding:0; margin:0}
+
+table.ajaxpostloadmore-admin input[type="text"], 
+table.ajaxpostloadmore-admin textarea, 
+table.ajaxpostloadmore-admin select {
+    width: 99%;
+    padding: 5px; 
+}
+table.ajaxpostloadmore-admin  tr td p { margin:3px;}
+table.ajaxpostloadmore-admin   .description { font-size:11px !important;}
+table.ajaxpostloadmore-admin-widget { margin:0px -14px }
+.tpp-code { padding:10px 5px; background-color:#f5f5f5; color: #333}

@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Post Load More\n"
+"POT-Creation-Date: 2016-01-23 21:48-0800\n"
+"PO-Revision-Date: 2016-01-23 21:49-0800\n"
+"Last-Translator: ikhodal <helpdesk@ikhodal.com>\n"
+"Language-Team: ikhodal\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+ 
+msgid "Ajax Post Load More"
+msgstr "Ajax Post Load More"
+ 
+msgid "Shortcode"
+msgstr "Shortcode"
+ 
+msgid "Please make the publish status to get the shortcode"
+msgstr "Please make the publish status to get the shortcode"
+  
+msgid "Add New Shortcode"
+msgstr "Add New Shortcode"
+ 
+msgid "Edit"
+msgstr "Edit"
+ 
+msgid "New"
+msgstr "New"
+ 
+msgid "All"
+msgstr "All"
+ 
+msgid "View"
+msgstr "View"
+ 
+msgid "Search"
+msgstr "Search"
+ 
+msgid "No item found"
+msgstr "No item found"
+ 
+msgid "No item found in Trash"
+msgstr "No item found in Trash"
+ 
+msgid "View"
+msgstr "View"
+ 
+msgid "Widget title"
+msgstr "Widget title"
+ 
+msgid "Set the title for widget heading. You can also hide it by "Hide widget title?" field selection to "Yes" on this form."
+msgstr "Set the title for widget heading. You can also hide it by "Hide widget title?" field selection to "Yes" on this form."
+   
+msgid "All"
+msgstr "All"
+ 
+msgid "Number of post display"
+msgstr "Number of post display"
+ 
+msgid "Add the integer value to load default number of posts."
+msgstr "Add the integer value to load default number of posts."
+ 
+msgid "Post title text color"
+msgstr "Post title text color"
+ 
+msgid "Add color code or color name for post title name."
+msgstr "Add color code or color name for post title name." 
+   
+msgid "Widget title text color"
+msgstr "Widget title text color"
+ 
+msgid "Add color code or color name for widget heading title."
+msgstr "Add color code or color name for widget heading title."
+ 
+msgid "Widget title background color"
+msgstr "Widget title background color"
+ 
+msgid "Add color code or color name for widget heading background."
+msgstr "Add color code or color name for widget heading background."
+ 
+msgid "Widget Width"
+msgstr "Widget Width"
+ 
+msgid "Add width of widget in pixel or percentage. Default width is 100%"
+msgstr "Add width of widget in pixel or percentage. Default width is 100%"
+ 
+msgid "Display title over image?"
+msgstr "Display title over image?"
+ 
+msgid "Select "Yes" to hide title below of post image and display over post image when post image mouse hover. Default is "No" to display it below post image."
+msgstr "Select "Yes" to hide title below of post image and display over post image when post image mouse hover. Default is "No" to display it below post image."
+ 
+msgid "Yes"
+msgstr "Yes"
+ 
+msgid "No"
+msgstr "No"
+ 
+msgid "Hide widget title?"
+msgstr "Hide widget title?"
+ 
+msgid "Select "Yes" to hide widget heading. Default is "No" to display it."
+msgstr "Select "Yes" to hide widget heading. Default is "No" to display it."
+  
+msgid "Hide post title?"
+msgstr "Hide post title?"
+ 
+msgid "Select "Yes" to hide the post title. Default is "No" to display it."
+msgstr "Select "Yes" to hide the post title. Default is "No" to display it." 
+ 
+msgid "Template"
+msgstr "Template" 
+ 
+msgid "Pane style 1"
+msgstr "Pane style 1" 
+ 
+msgid "Pane style 2"
+msgstr "Pane style 2" 
+ 
+msgid "Pane style 3"
+msgstr "Pane style 3" 
+ 
+msgid "Pane style 4"
+msgstr "Pane style 4"  
+ 
+msgid "No posts found."
+msgstr "No posts found." 
+ 
+msgid "View Detail"
+msgstr "View Detail" 
+   
+msgid "Load More"
+msgstr "Load More"  
